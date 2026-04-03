@@ -6,10 +6,8 @@ O **FIAP Status & SRE Mobile** foi desenvolvido para atender ao desafio do Check
 
 ## b) Integrantes do Grupo
 
-- [Nome e RM]
-- [Nome e RM]
-- [Nome e RM]
-- [Nome e RM]
+- Enzo Almeida RM556900
+- Guilherme Moreira RM557290
 
 ## c) Como Rodar o Projeto
 
